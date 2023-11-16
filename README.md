@@ -4,7 +4,7 @@
 
 Repository for fitting Forward-Thinking models of the Ultimatum Game in Python using BayesFlow
 
-**Authors: Blair R. K. Shevlin from the Center for Computational Psychiatry at the Icahn School of Medicine at Mount Sinai
+**Authors: Blair R. K. Shevlin from the Center for Computational Psychiatry at the Icahn School of Medicine at Mount Sinai**
 
 ### Prerequisites
 
